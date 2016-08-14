@@ -12,6 +12,7 @@
 		86ECB83A1D60E7480089537B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86ECB8381D60E7480089537B /* Main.storyboard */; };
 		86ECB83C1D60E7480089537B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 86ECB83B1D60E7480089537B /* Assets.xcassets */; };
 		86ECB83F1D60E7480089537B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 86ECB83D1D60E7480089537B /* LaunchScreen.storyboard */; };
+		86ECB8471D60E95C0089537B /* StackElementViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 86ECB8461D60E95C0089537B /* StackElementViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		86ECB83B1D60E7480089537B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		86ECB83E1D60E7480089537B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		86ECB8401D60E7480089537B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		86ECB8461D60E95C0089537B /* StackElementViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = StackElementViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			children = (
 				86ECB8341D60E7480089537B /* AppDelegate.swift */,
 				86ECB8361D60E7480089537B /* ViewController.swift */,
+				86ECB8461D60E95C0089537B /* StackElementViewController.swift */,
 				86ECB8381D60E7480089537B /* Main.storyboard */,
 				86ECB83B1D60E7480089537B /* Assets.xcassets */,
 				86ECB83D1D60E7480089537B /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			files = (
 				86ECB8371D60E7480089537B /* ViewController.swift in Sources */,
 				86ECB8351D60E7480089537B /* AppDelegate.swift in Sources */,
+				86ECB8471D60E95C0089537B /* StackElementViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
